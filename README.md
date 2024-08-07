@@ -10,13 +10,16 @@ PowerCo, a major gas and electricity utility serving small and medium-sized ente
 
 Hypothesis:
 Is price sensitivity a major factor for churning of customers ? 
+
 Data
+
 The project utilizes two main datasets:
 
 client_data.csv: Contains information about PowerCo's customers, including their energy consumption, contract details, and churn status.
 price_data.csv: Contains pricing information related to energy consumption.
 
 EDA
+
 In the EDA section, I performed various analyses to understand the distribution and relationship of different features with customer churn. I visualized the data using stacked bar plots and distribution plots for various features such as energy consumption, contract types, sales channels, and forecasted values.
 
 Feature Engineering
