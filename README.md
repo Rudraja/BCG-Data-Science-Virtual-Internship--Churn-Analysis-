@@ -29,6 +29,7 @@ Correlation Analysis
 Performed correlation analysis to identify highly correlated features and reduce multicollinearity.
 
 Random Forest Classifier
+
 A Random Forest classifier was chosen for its robustness and ability to handle large datasets with higher dimensionality. The steps included:
 
 Data Preprocessing: Handled missing values, normalized features, and split the data into training and testing sets.
@@ -40,7 +41,8 @@ The Random Forest model provided insights into the key factors influencing custo
 Feature Importance: Identified the most important features contributing to churn prediction.
 Model Performance: Achieved an accuracy of 90%, with precision and recall values indicating the model's reliability.
 
-Key Business Insights
+Key Business Insights:
+
 High Power Consumption: Customers with higher maximum power consumption tend to churn at a higher rate. Implementing targeted engagement strategies for these customers can help reduce churn.
 Gas Contracts: Customers with gas contracts show slightly higher retention. Bundling gas with electricity services could improve overall retention rates.
 Customer Tenure: Enhancing onboarding processes and implementing effective loyalty programs for new customers is crucial, as early customer experiences strongly correlate with long-term retention.
